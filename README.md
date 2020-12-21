@@ -1,10 +1,6 @@
----
-typora-root-url: ./Images/Akai_MPC2000.jpg
----
-
 This hopefully the start of a repo that helps other Akai MPC 2000 users understand and fix their own MPC's.
 
-![](/../Akai_MPC2000.jpg)
+![](Images/Akai_MPC2000.jpg)
 
 ### Hardware & Bill of Materials
 
@@ -24,7 +20,7 @@ Firmware now dumped and in the Firmware folder
 
 The Akai seems to use the Sanyo Computer Control Bus (CCB) serial bus format to communicate between all ICs. The address is entered with CS low, then data with CS high
 
-![](/../CCB.png)
+![](Images/CCB.png)
 
 The new MPC stuff LCD has an adapter board which translates from Sanyo IC to SPI Bus. The original 240x64 T6963 LCD screen 
 
