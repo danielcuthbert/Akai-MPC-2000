@@ -16,7 +16,9 @@ This hopefully the start of a repo that helps other Akai MPC 2000 users understa
 
 For the MPC to boot, a number of things need to be in place and to happen. The boot process needs the OS 1.72 disk to boot and uses the AMD Am27C256 256 Kilobit (32k x 8-bit) CMOS EEPROM for controlling the main board and also the top board functions. 
 
-Todo: Dump the EEPROM 
+~~Todo: Dump the EEPROM~~ 
+
+Firmware now dumped and in the Firmware folder 
 
 ### Protocols Used
 
